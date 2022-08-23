@@ -4612,8 +4612,9 @@ img {
   -o-transition: all 0.3s ease;
 }
 
-.services-block-four .inner-box .content h3 a:hover {
-  color: #fdb821;
+.services-block-four .inner-box .content:hover h3 a {
+  /* color: #fdb821; */
+  color: black;
 }
 
 .services-block-four .inner-box .content .text {
