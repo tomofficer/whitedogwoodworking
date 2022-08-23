@@ -172,7 +172,8 @@ li {
 }
 
 .grey-bg {
-  background-color: #f7f7f7 !important;
+  /* background-color: #f7f7f7 !important; */
+  /* background-color: darkgray !important; */
 }
 
 /*Btn Style One*/
@@ -2196,8 +2197,8 @@ img {
 .project-section {
   position: relative;
   padding: 70px 0px 40px;
-  /* background-color: #042038; */
-  background-color: black;
+  background-color: #042038;
+  /* background-color: black; */
 }
 
 .project-section.default-bg {
