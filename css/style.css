@@ -4603,7 +4603,8 @@ img {
 
 .services-block-four .inner-box .content h3 a {
   position: relative;
-  color: #222222;
+  /* color: #222222; */
+  color: white;
   transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -4625,7 +4626,8 @@ img {
 
 .services-block-four .inner-box .content .read-more {
   position: relative;
-  color: #222222;
+  /* color: #222222; */
+  color: #fdb821;
   font-size: 16px;
   font-weight: 500;
   transition: all 0.3s ease;
