@@ -2197,7 +2197,9 @@ img {
 .project-section {
   position: relative;
   padding: 70px 0px 40px;
-  background-color: #042038;
+  /* background-color: #d7d7d9; */
+  /* background-color: #042038; */
+  background-color: white;
   /* background-color: black; */
 }
 
